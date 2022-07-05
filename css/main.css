@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Hind+Madurai:wght@400;600&family=Roboto:wght@500&display=swap');
+
+.container{
+    width: 1600px;
+    background-color: #F2CEDA;
+    margin: 0 auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/*ICE-CREAM IMAGE*/
+.image-large{
+    position: absolute;
+    width: 894.68px;
+    height: 742.36px;
+    left: 839px;
+    top: 130px;
+    margin-top: 51px;
+}
+
+.image-milk{
+    position: absolute;
+    width: 851.86px;
+    height: 548.1px;
+    left: 735.8px;
+    top: 251px;
+    margin-top: 50%;
+    background: url(UaNIa1ewNn-removebg-preview.png);
+transform: rotate(4.79deg);
+}
+/*ICE-CREAM IMAGE*/
+
+header{
+    width: 1125px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.header-nav{
+    margin-top: 0;
+}
+.head-nav li{
+    list-style: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #150101;
+    opacity: 0.6;
+    margin-left: 40px;
+}
+
+li:hover{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #ce1351;
+}
+.button{
+    width: 165px;
+    height: 49px;   
+    background: #ce1351;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content-button{
+    text-decoration: none;
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff5f5;
+}
+
+#hero{
+    background-color: #ddacbc;
+    width: 1130px;
+    margin: 0 auto;
+    display: flex;
+    height: 705px;
+}
+.hero-left{
+    margin-top: 196px;
+}
+
+
+/*Sweet fun, full of milk. */
+.sign{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    color: #0F0101;
+}
+
+h1{
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57.33px;
+    line-height: 120.5%;
+    color: #0F0101;
+    opacity: 0.9;
+}
+
+
+
+span{
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57.33px;
+    line-height: 120.5%;
+    color: #D23166;
+    opacity: 0.9;
+    margin-top: 6px;
+}
+
+.sign-2{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0F0101;
+    opacity: 0.6;
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+
+
+
+/* Brown Sugar Oatmea */
+.content-1{
+    background-color: #F2CEDA;
+    width: 1125px;
+    margin: 0 auto;
+    display: flex;
+    height: 544px;
+}
+.content-1-title{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44.2px;
+    line-height: 49px;
+    color: #150101;
+    margin-top: 141px;
+    display: flex;
+}
+.first-content-p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #150101;
+    opacity: 0.6;
+    margin-top: 16px;
+    margin-bottom: 35px;
+}
+
+
+/*Our Product*/
+.product{
+    width: 1200px;
+    margin: 0 auto;
+    border: 1px solid red;
+    display: flex;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+}
+.product-title{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44.2px;
+    line-height: 61px;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.list-of-product li{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+    opacity: 0.6;
+    list-style: none;
+    margin-left: 40px;
+}
+.ice-cream{
+    position: absolute;
+    width: 655px;
+    height: 656.8px;
+    left: 768px;
+    top: 716px;
+    margin-top: 800px;
+    margin-left:0 auto;
+  }
+
+
+
+
